@@ -53,7 +53,7 @@ This project uses Flask to build a RESTful API for managing custom databases. Th
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OpenSource-DB.git
+   git clone https://github.com/SwastikBhattacharjee/OpenSource-DB.git
    cd OpenSource-DB
    ```
 2. Install dependencies:
